@@ -60,8 +60,8 @@ export default function ContactSection() {
                 {
                   icon: Mail,
                   label: 'Email',
-                  value: 'Click Here for Email',
-                  href: 'mailto:putta.abhiram.23cse@bmu.edu.in',
+                  value: 'meltedmomentscookiesshop@gmail.com',
+                  href: 'mailto:meltedmomentscookiesshop@gmail.com',
                   color: '#D4AF37',
                 },
                 {

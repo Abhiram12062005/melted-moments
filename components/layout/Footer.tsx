@@ -37,7 +37,7 @@ export default function Footer() {
                 <MessageCircle size={16} />
               </a>
               <a
-                href="mailto:putta.abhiram.23cse@bmu.edu.in"
+                href="mailto:meltedmomentscookiesshop@gmail.com"
                 className="w-9 h-9 rounded-full bg-cream/10 flex items-center justify-center hover:bg-gold hover:text-chocolate transition-all duration-300"
               >
                 <Mail size={16} />
@@ -113,8 +113,8 @@ export default function Footer() {
                 </div>
                 <div>
                   <p className="font-body text-xs text-cream/40 uppercase tracking-wide">Email</p>
-                  <a href="mailto:putta.abhiram.23cse@bmu.edu.in" className="font-body text-sm text-cream/80 hover:text-gold transition-colors">
-                    Reach out on email
+                  <a href="mailto:meltedmomentscookiesshop@gmail.com" className="font-body text-sm text-cream/80 hover:text-gold transition-colors">
+                    meltedmomentscookiesshop@gmail.com
                   </a>
                 </div>
               </li>
